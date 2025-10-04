@@ -8,3 +8,4 @@ height = 5.9
 print (height)
 is_student = False
 print (is_student)
+print(name,age,height,is_student)
